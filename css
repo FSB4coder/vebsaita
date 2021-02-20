@@ -1,0 +1,28 @@
+
+body {
+    font-family:chicago;
+    background-color: lightskyblue;
+}
+header{
+    background-color: lightskyblue;
+}
+nav{
+    background-color: #0011fd;
+}
+h1{
+    background-color:#0011fd;
+    color: whitesmoke;
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+footer{
+    background-color: #0011fd;
+    color: whitesmoke;
+}
+p img{
+    background-color: lightyellow;
+}
